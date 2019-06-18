@@ -1,4 +1,4 @@
-# 影院Demo
+# 喵喵影院
 
 ## Project setup
 ```
