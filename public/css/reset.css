@@ -31,15 +31,6 @@ html,body{
     display: flex;
     flex-direction: column;
 }
-#content{
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    overflow: auto;
-    margin-bottom: 50px;
-
-}
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
